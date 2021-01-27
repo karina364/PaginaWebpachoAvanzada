@@ -1,0 +1,31 @@
+[
+    {
+        "titulo": "Tenemos los mejores diseños en busos de esta temporada",
+        "autor":  "",
+        "img":  "assets/Img/busos.jpg",
+        
+        "extracto": "Busos para dama",
+        "link": "camisetas-basicas " 
+    },
+    {
+        "titulo": "Elige el color que más te gusta",
+        "autor":  "" ,
+        "img":  "assets/Img/basicas.jpg",
+        "extracto": "Camisetas básicas",
+        "link": "camisetas-basicas " 
+    },
+    {
+        "titulo": "Te asesoramos para que encuentres los mejores diseños para tus prendas",
+        "autor":  "",
+        "img":  "assets/Img/estampada2.jpg",
+        "extracto": "Diseños personalizados",
+        "link": "camisetas-basicas " 
+    },
+    {
+        "titulo": "Tenemos artículos deportivos para todos",
+        "autor":  "",
+        "img":  "assets/Img/deporte.jpg",
+        "extracto": "Artículos deportivos",
+        "link": "camisetas-basicas" 
+    }
+] 

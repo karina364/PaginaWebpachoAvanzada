@@ -1,0 +1,44 @@
+.menu {
+    padding: 0 14px;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.barra  {
+    max-height: 80vh;
+}
+
+header {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.fond {
+    height: 90px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: HotPink;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    opacity: 0.8;
+}
+
+.logo1 {
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+#img {
+    display: none
+}

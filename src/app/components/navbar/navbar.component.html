@@ -1,0 +1,61 @@
+<div class="contener">
+<header class="row">
+  <div class="col-xs-12">
+  <div class="fond">
+
+    <div class="col-xs-3">
+    <nav class="search  ">
+      <form class="" action="">
+        <input class="" type="text" placeholder="Search">
+        <button class="" type="submit">Search</button>
+      </form>
+    </nav>
+  </div>
+
+     <div class="col-xs-1 col-xs-offset-2">
+        <div class="logo1">
+        <img src="assets/Img/Logotipo4.png" alt="Logo" > 
+        <span class="spacer"></span>  
+      </div>  
+    </div>    
+
+    <div class="col-xs-2">
+      <div class="logo">
+        <img src="assets/Img/Logo3.png" alt="Logo" > 
+      </div>  
+    </div>
+
+   
+   
+    <div class="col-xs-1 col-xs-offset-3">
+      <div class="class-menu">
+      <button class="menu" mat-icon-button [matMenuTriggerFor]="menu" aria-label="Example icon-button with a menu">
+        <mat-icon>menu</mat-icon>
+      </button>
+        
+   
+  <mat-menu #menu="matMenu">
+    <button mat-menu-item routerLink="inicio">Inicio</button>
+    <button mat-menu-item routerLink="basica">Basica</button>
+    <button mat-menu-item routerLink="hombre">Hombre</button>
+    <button mat-menu-item routerLink="mujer">Mujer</button>
+    <button (click)="registro()">Registro</button>
+    <button id="img">Añadir imagen</button>
+    <button id="img">Eliminar imagen</button>
+</mat-menu>
+</div>
+</div>
+
+
+<!--
+<div class="register">
+  <INPUT onclick="" type="button" value="Registro">
+</div>
+
+  
+  -->
+
+</div>
+</div>
+</header>
+</div>
